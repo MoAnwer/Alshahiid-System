@@ -1,6 +1,6 @@
 # 🎖️ Alshahiid Management System
 
-> **A Comprehensive Integrated Goverment System for Managing Martyr Data, Families, Supervisors, and Injured Personnel**
+> **A Comprehensive Integrated Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Overview
 
-Alshahiid management system is a goverment, sophisticated, integrated and flexible management system designed for [Alshahiid organization](https://web.facebook.com/p/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-100067605171345/?locale=ar_AR&_rdc=1&_rdr) to handle complex operations related to:
+Alshahiid management system is a government, sophisticated, integrated and flexible management system designed for [Alshahiid organization](https://web.facebook.com/p/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D8%AA%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9-100067605171345/?locale=ar_AR&_rdc=1&_rdr) to handle complex operations related to:
 
 - 📊 Comprehensive martyr data management
 - 👨‍👩‍👧‍👦 Family records and genealogy
@@ -1484,19 +1484,9 @@ This system is designed and developed for organizational use in managing martyr 
 
 ## Conclusion
 
-The **نظام الشهيد الإلكتروني (Alshahiid Management System)** represents a comprehensive solution for managing complex martyr and family data. With its intuitive interface, powerful search capabilities, extensive reporting features, and secure data management, it provides an effective platform for organizational operations and decision-making.
+The **(Alshahiid Management System)** represents a comprehensive government solution for managing complex martyr and family data. With its intuitive interface, powerful search capabilities, extensive reporting features, and secure data management, it provides an effective platform for organizational operations and decision-making.
 
 The system's modular design allows for easy navigation and efficient data management, while its comprehensive reporting capabilities enable data-driven decision making and oversight.
-
----
-
-## Contact & Support
-
-For questions, technical support, or feature requests, please contact:
-
-- **System Administrator**: [Contact Information]
-- **Technical Support Team**: [Support Email/Phone]
-- **Feedback & Suggestions**: [Feedback Channel]
 
 ---
 
