@@ -1449,36 +1449,14 @@ The system is organized into logical modules:
 | **System Name** | نظام الشهيد الإلكتروني |
 | **English Name** | Alshahiid Management System |
 | **Version** | 1.0 |
-| **Last Updated** | 2025 |
+| **Last Updated** | 2026 |
 | **Release Date** | 2025 |
-
----
-
-## Author
-
-**محمد انور ليمان** | **Mohamed Anwer Lyman**
 
 ---
 
 ## License & Usage
 
 This system is designed and developed for organizational use in managing martyr information and family services. All data is confidential and protected under organizational policies.
-
----
-
-## Future Enhancements
-
-### Planned Features
-- 📱 Mobile app version
-- 🌐 Multi-language support
-- 📊 Advanced analytics dashboard
-- 🔔 SMS notifications
-- 📧 Email integration
-- 🗺️ Geographic mapping
-- 📈 Predictive analytics
-- 🤖 AI-powered insights
-- 🔐 Enhanced security features
-- ⚡ Performance optimization
 
 ---
 
