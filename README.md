@@ -1,3 +1,5 @@
+Automatic backup scheduling
+Automatic backup scheduling
 # 🎖️ Alshahiid Management System
 
 > **A Comprehensive Integrated Government System for Managing Martyr Data, Families, Supervisors, and Injured Personnel**
@@ -1195,9 +1197,7 @@ Access restricted to system administrators with highest privileges.
 **Backup Operations:**
 1. **Create Database Backup**
    - Full database export
-   - Compressed file format
    - Timestamped backup files
-   - Automatic backup scheduling
 
 2. **Restore Database**
    - Select backup file
@@ -1208,8 +1208,6 @@ Access restricted to system administrators with highest privileges.
 ### Features:
 - 🔄 Full system backup
 - ↩️ Data restoration
-- 📅 Backup scheduling
-- 🔐 Encrypted backups
 - 📊 Backup size statistics
 
 ---
@@ -1344,11 +1342,9 @@ The system is organized into logical modules:
 
 ### 💡 Design Principles
 
-- **User-Centric**: Intuitive interface prioritizing user experience
 - **Data-Centric**: Comprehensive data management capabilities
 - **Reporting-Rich**: Extensive reporting and analytics
 - **Secure**: Role-based access control and data protection
-- **Scalable**: Designed to grow with organizational needs
 - **Reliable**: Data backup and recovery mechanisms
 
 ---
@@ -1379,7 +1375,6 @@ The system is organized into logical modules:
 ### 🛡️ Security
 - Change password regularly
 - Don't share login credentials
-- Log out after finishing
 - Report suspicious activity
 - Verify backup integrity
 
@@ -1412,24 +1407,6 @@ The system is organized into logical modules:
 - Ensure proper paper size
 - Verify printer connectivity
 - Try PDF export instead
-
----
-
-## Support & Maintenance
-
-### Getting Help
-1. Contact system administrator
-2. Review user documentation
-3. Check FAQ section
-4. Submit support request
-5. Schedule training session
-
-### System Maintenance
-- Regular database backups (Daily)
-- Weekly system checks
-- Monthly performance review
-- Quarterly security audit
-- Annual system upgrade
 
 ---
 
